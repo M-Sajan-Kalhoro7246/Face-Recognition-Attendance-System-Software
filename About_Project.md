@@ -1,0 +1,29 @@
+# Face-Recognition-Attendance-System-Software
+Face-Recognition-Attendance-System
+Created By: Muhammad Sajan Kalhoro
+
+
+Mandatory: Python version 3.10.5 
+Using: VScode 
+Using: XAMPP 
+
+Algorithm Use:
+Haarcascade Opencv (Object Detection)
+LBPH Opencv (Face Recognition)
+
+Features of Project:
+Real time face detection
+
+1] Loging Security System
+			(Gmail & Password)
+			(Registraction & Forget Password)
+2] Home Page
+i) Student management system
+			(Save, Take Photo Samples, Update, Delete, Clear) 
+ii) Train Photo Samples 
+iii) Take Attendance with Face Detection 
+iv) Attendance Report 
+		(Excel file & MySql database) 
+v) Developer Page
+vi) Help Desk
+vii) Exit System
